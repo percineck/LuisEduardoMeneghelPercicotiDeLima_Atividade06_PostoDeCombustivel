@@ -1,0 +1,64 @@
+.logoutfpr {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 100px; 
+    height: auto;
+}
+
+/* Estilo para o div com informações */
+div.informacoes {
+    background-color: #f0f0f0;
+    padding: 20px; 
+    border: 1px solid #ddd; 
+    border-radius: 5px; 
+    text-align: center; 
+}
+
+/* Estilo para o título */
+    div.informacoes h1 {
+    font-size: 24px; 
+    margin-bottom: 10px;
+}
+
+/* Estilo para os parágrafos */
+div.informacoes p {
+    font-size: 18px; 
+    margin: 5px 0;
+}
+
+#caixa-eletronico {
+    margin-left: 30px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+form {
+    margin: 0 auto;
+    width: 500px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+input[type="submit"] {
+    background-color: #000;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+pre {
+    font-family: monospace;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.container{
+    margin-top: 20px;
+}
